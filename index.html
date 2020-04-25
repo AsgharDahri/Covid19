@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="animated.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Girassol&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+	<div>
+		<nav class="navbar navbar-inverse navbar-static-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">COVID-19</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav">
+						<li ><a href="index.php">Home</a></li>
+						<li><a href="update.php">Live Update.</a></li>
+						<li><a href="about.html">About Us.</a></li>
+						
+						
+					</ul>
+					<ul class="nav navbar-nav navbar-right"  class="nav-item active">
+						<li><a href="index.php"  >
+							<div class="animated flash infinite">
+								STAY HOME STAY SAFE !
+							</div>
+						</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+	
+	
+			   <div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 col-12 ">
+						<img src="p1.png" width="500px" height="300px" class="img-responsive" class="img-fluid aboutImg">
+					</div>
+					<div class="col-lg-6 col-md-6 col-12 ">
+						<br>
+						<h2 class="display-1">About COVID-19</h2>
+						<h4>A novel coronavirus (2019-nCoV) is a new coronavirus that has not been previously identified. Public health officials and partners are working hard to identify the source of the "2019-nCoV". Coronaviruses are a large family of viruses, some causing illness in people and others that circulate among animals, including camels, cats and bats. This outbreak started in the month of December 2019, as an unknown cluster of respiratory illnesses first reported from Wuhan City, China.</h4>
+						
+						<br>
+						<a href="http://covid.gov.pk/covid19" class="btn btn-danger">For Emergency !</a>
+					</div>
+				</div>
+			</div>
+			<br><br>
+			<br><br>
+			<hr style="width:50%;text-align:center;">
+			<br><br>
+
+
+
+			
+		
+
+
+
+			<div class="container" >
+				<div class="col-lg-12">
+					<div class="row">
+					
+					<div class="col-lg-6 col-md-6 ">
+						<br>
+						<h2 class="display-1">PRECAUTIONS.</h2>
+						<ul>
+							<li>
+								<h4>Wash hands often with soap and water for at least 20 seconds.</h4>
+
+							</li>
+							<li>
+								<h4>
+								Cover Nose & Mouth When Sneezing.</h4>
+
+							</li>
+							<li>
+								<h4>Cover coughs and sneezes with tissues.</h4>
+
+							</li>
+							<li>
+								<h4>Use Sanitizer.
+								Use hand sanitizer if soap and water are not available.</h4>
+
+							</li>
+							<li>
+								<h4>Wash hands often with soap and water for at least 20 seconds.</h4>
+
+							</li>
+
+							<li>
+								<h4>Avoid Crowded Places (Social Distancing).</h4>
+							</li>
+						</ul>
+						
+								
+								
+								
+						<br><br>
+					
+					</div><br><br><br>
+
+
+					<div class="animated pulse" class="col-lg-12 col-md-12 ">
+						<img src="p2.jpeg"  style="float:left:" width="550px" height="300px" class="img-responsive" class="img-fluid aboutImg">
+					</div>
+				</div>
+				</div>
+				
+			</div>
+
+
+			<br><br>
+			<br><br>
+			<hr style="width:50%;text-align:center;">
+			<br><br>
+
+			    <h1  class="text-center">SYMPTOMS.</h1>
+			    <div class="container" >
+			    	<div class="mx-auto" >
+			    	<div class="inli">
+			    		<div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p24.png" width="150px" style=""  alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title" class="text-center">Flu</h5>
+					  </div>
+				    </div>
+			    </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+			    <div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p23.png" width="230px" alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title">Fever.</h5>
+					   
+					  </div>
+				    </div>
+			    </div>
+
+
+
+			     <div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p22.jpg" width="200px"  alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title" >Cough.</h5>
+					   
+					    
+					  </div>
+				    </div>
+			    </div>
+			    	<div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p25.jpeg" width="150px" style=""  alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title" class="text-center">Difficulty in Breathing.</h5>
+					  </div>
+				    </div>
+			    </div>
+
+			  
+			    	</div>
+			    </div>
+
+			    </div>
+
+
+			<br><br>
+			<br><br>
+			<hr style="width:50%;text-align:center;">
+			<br><br>
+
+			<h2 class="text-center">Things you can do in quarantine.</h2>
+			 <div class="container" >
+			    	<div class="mx-auto" >
+			    	<div class="inli">
+			    		<div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p33.jpg" width="200px" style=""  alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title" class="text-center">Learn New skill</h5>
+					    <p>
+					    	Quarantine can be opportunity to develop new skills.
+					    </p>
+					  </div>
+				    </div>
+			    </div>
+
+			    <div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p32.jpg" width="200px" height="120px" alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title">Reading.
+					    	</h5>
+					    	<p>
+					    		Reading 30-40 pages daily helps to stay positive all the day.
+					    	</p>
+					   
+					  </div>
+				    </div>
+			    </div>
+
+
+
+			     <div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p31.png" width="200px"  alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title" >Meditaion.</h5>
+					    <p>
+					    	meditation can improves attention and concentration.
+					    </p>
+					   
+					    
+					  </div>
+				    </div>
+			    </div>
+			    	<div class="col-lg-3">
+			    	<div class="card bg-dark text-white" >
+					  <img class="card-img" src="p35.jpg" width="200px" style=""  alt="Card image">
+					  <div class="card-img-overlay">
+					    <h5 class="card-title" class="text-center">Help Others.</h5>
+					    <p>Be first to HELP.</p>
+					  </div>
+				    </div>
+			    </div>
+
+			  
+			    	</div>
+			    </div>
+
+			    </div>
+
+
+
+<br><br>
+			<br><br>
+
+	<!-- Footer -->
+<footer class="page-footer font-small cyan darken-3">
+
+  <!-- Footer Elements -->
+  <div class="container">
+
+    <!-- Grid row-->
+    <div class="row">
+
+      <!-- Grid column -->
+      <div class="col-md-12 py-5">
+        <div class="mb-5 flex-center">
+
+          <!-- Facebook -->
+          <a class="fb-ic">
+            <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!-- Twitter -->
+          <a class="tw-ic">
+            <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!-- Google +-->
+          <a class="gplus-ic">
+            <i class="fab fa-google-plus-g fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!--Linkedin -->
+          <a class="li-ic">
+            <i class="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!--Instagram-->
+          <a class="ins-ic">
+            <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!--Pinterest-->
+          <a class="pin-ic">
+            <i class="fab fa-pinterest fa-lg white-text fa-2x"> </i>
+          </a>
+        </div>
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Grid row-->
+
+  </div>
+  <!-- Footer Elements -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://www.facebook.com/asghar.dahri.7/">Asghar</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+
+		
+
+	
+
+	<!-- <div class="carousel-item">
+		<h1 class="text-center">Things You Can Do To Stay Positive During COVID-19</h1>
+  <img src="..." alt="...">
+  <div class="carousel-caption d-none d-md-block">
+    <h5>...</h5>
+    <p>...</p>
+  </div>
+</div> -->
+
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
